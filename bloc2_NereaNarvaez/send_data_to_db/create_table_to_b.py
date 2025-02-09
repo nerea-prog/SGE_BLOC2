@@ -13,8 +13,8 @@ def create_tables():
     sql_clients = '''
         CREATE TABLE Clientes (
         Nombre_Cliente VARCHAR(100),
-        Direccion_Cliente VARCHAR(200),
-        Telefono_Cliente VARCHAR(100),
+        Dirección_Cliente VARCHAR(200),
+        Teléfono_Cliente VARCHAR(100),
         Correo_Electrónico_Cliente VARCHAR(100),
         Fecha_Cumpleaños VARCHAR(50));'''
     
