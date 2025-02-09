@@ -36,20 +36,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.create_registre.executor": "Run",
-    "Python.create_table_to_b.executor": "Run",
-    "Python.csv_to_dict.executor": "Run",
-    "Python.dict_to_db.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.read_registre.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "090225",
-    "last_opened_file_path": "/home/nerea/Escritorio/SGE_BLOC2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.create_registre.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_table_to_b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_to_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_to_db.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_registre.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;090225&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/nerea/Escritorio/SGE_BLOC2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="read_registre" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SGE_BLOC2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python/read_registre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
