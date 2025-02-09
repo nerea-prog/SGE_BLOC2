@@ -18,5 +18,9 @@
 
 ![](/bloc2_NereaNarvaez/imagenes/img_1.png)
 
-5- Lo siguiente que veremos es la impresion del cliente numero 5 
+5- Lo siguiente que veremos es la impresion del cliente numero 5
+
+![](/bloc2_NereaNarvaez/imagenes/img_2.png)
+
+6- Veremos como nos imprime del cliente numero 4 el numero de telefono que corresponde a la columna 2
 
