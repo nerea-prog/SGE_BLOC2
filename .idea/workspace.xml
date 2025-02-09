@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="877c54fc-0d8b-481c-914a-0472f3abe0c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/imagenes/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/imagenes/parte2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/imagenes/parte3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python/create_registre.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python/create_registre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python/read_registre.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python/read_registre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloc2_NereaNarvaez/send_data_to_db/create_table_to_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/send_data_to_db/create_table_to_b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloc2_NereaNarvaez/send_data_to_db/dict_to_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/send_data_to_db/dict_to_db.py" afterDir="false" />
-    </list>
+    <list default="true" id="877c54fc-0d8b-481c-914a-0472f3abe0c0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,16 +67,5 @@
       <updated>1739112428678</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/bloc2_NereaNarvaez/send_data_to_db/create_table_to_b.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
