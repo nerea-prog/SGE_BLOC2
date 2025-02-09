@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="877c54fc-0d8b-481c-914a-0472f3abe0c0" name="Changes" comment="" />
+    <list default="true" id="877c54fc-0d8b-481c-914a-0472f3abe0c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/imagenes/img_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python/read_registre.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloc2_NereaNarvaez/postgresql_python/read_registre.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

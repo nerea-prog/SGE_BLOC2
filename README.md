@@ -24,3 +24,7 @@
 
 6- Veremos como nos imprime del cliente numero 4 el numero de telefono que corresponde a la columna 2
 
+![](/bloc2_NereaNarvaez/imagenes/img_4.png)
+![](/bloc2_NereaNarvaez/imagenes/img_3.png)
+
+7- Aqui tenemos unas consultas en las que consultamos la informacion de varios clientes y extraemos algo en concreto segun su columna
