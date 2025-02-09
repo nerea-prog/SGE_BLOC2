@@ -28,3 +28,22 @@
 ![](/bloc2_NereaNarvaez/imagenes/img_3.png)
 
 7- Aqui tenemos unas consultas en las que consultamos la informacion de varios clientes y extraemos algo en concreto segun su columna
+
+![](/bloc2_NereaNarvaez/imagenes/img_5.png)
+
+8- En el bucle for lo que nos hace es imprimir clientes en orden del bucle, si i es igual a 0, nos imprimira el primer cliente y asi sucesivamente
+
+![](/bloc2_NereaNarvaez/imagenes/img_6.png)
+
+9- Aqui vemos como el cliente roger ha cambiado de numero al editar el update registre
+
+Ejemplo de otro usuario:
+![](/bloc2_NereaNarvaez/imagenes/img_7.png)
+
+![](/bloc2_NereaNarvaez/imagenes/img_8.png)
+![](/bloc2_NereaNarvaez/imagenes/img_9.png)
+![](/bloc2_NereaNarvaez/imagenes/img_10.png)
+
+10- En estas tres capturas, al llamar a la funcion delete_registre en el main vemos que si ponemos un nombre de cliente, podemos eliminarlo, en este caso lo hemos hecho con Carla, Alba y Miquel
+
+
