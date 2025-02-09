@@ -16,4 +16,7 @@
 
 4- Al hacer print de los resultados cuando llamamos a la funcion nos aparecerá por terminal todos los clientes que tenemos en nuestra bases de datos
 
+![](/bloc2_NereaNarvaez/imagenes/img_1.png)
+
+5- Lo siguiente que veremos es la impresion del cliente numero 5 
 
